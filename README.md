@@ -6,7 +6,7 @@ For now, the translation has been done entirely by me (as I am a native Italian 
 
 ## Getting Started
 ### Installation
-1. Clone the repo or download `italian.ini` file
+1. Clone the repo or download `italian.ini` file from <a href="https://github.com/Daivy03/translatedIni-Italian-Language-/releases">releases</a>
  ```sh
    git clone https://github.com/Daivy03/translatedIni-Italian-Language-.git
    ```
