@@ -23,12 +23,12 @@ For now, the translation has been done entirely by me (as I am a native Italian 
 If you would like to help me, don't hesitate to request a pull, I need help to improve accuracy and to finish the translation (since it is a very long list)
 
 ## Contact
-For more information you can contact me on:
+For more information:
 <br/>
 <!-- Discord Logo -->
 <p align="center">
 <img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" width="80" height="90" alt=Discord>
-<br/><b>RVG | Ɗ∆IƲƳ#2222</b>
+ <br/><a href="https://discord.com/invite/UZFDzJZbYe">Ilusion Engine Official Discord</a>
 </p>
 
 ## License
