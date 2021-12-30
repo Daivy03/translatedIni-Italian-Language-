@@ -4,6 +4,11 @@ A simple translation to the Italian language for ilusion engine
 ## Accuracy
 For now, the translation has been done entirely by me (as I am a native Italian language) but I do not guarantee the translation is 100% accurate because I had to use a python script to translate several words together. In conclusion, some words could be translated literally.
 
+## Ilusion Engine supported OS
+<ul>
+ <li>Windows 10</li>
+ <li>Windows 11 (not officially)</li>
+
 ## Getting Started
 ### Installation
 1. Clone the repo or download `italian.ini` file from <a href="https://github.com/Daivy03/translatedIni-Italian-Language-/releases">releases</a>
