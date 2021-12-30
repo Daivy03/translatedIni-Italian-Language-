@@ -1,5 +1,5 @@
 # translatedIni-Italian-Language-
-A simple translation to the Italian language for ilusion
+A simple translation to the Italian language for ilusion engine
 
 ## Accuracy
 For now, the translation has been done entirely by me (as I am a native Italian language) but I do not guarantee the translation is 100% accurate because I had to use a python script to translate several words together. In conclusion, some words could be translated literally.
