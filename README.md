@@ -1,6 +1,12 @@
 # translatedIni-Italian-Language-
 A simple translation to the Italian language for ilusion engine
 
+# Discontinued Project
+ Discontinue since <b>Ilusion Engine</b> changed the format from .ini to .iet
+ 
+ 
+ 
+
 ## Accuracy
 For now, the translation has been done entirely by me (as I am a native Italian language) but I do not guarantee the translation is 100% accurate because I had to use a python script to translate several words together. In conclusion, some words could be translated literally.
 
@@ -17,6 +23,7 @@ For now, the translation has been done entirely by me (as I am a native Italian 
    ```
 2. Move `italian.ini` file to <b>C:\Ilusion\Translations</b>
 3. Open Menu and go to `Menu Settings` >`Language` > and select <b>Italian</b>
+
 
 
 ## Contributing
